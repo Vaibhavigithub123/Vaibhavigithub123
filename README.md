@@ -3,9 +3,9 @@
 I’m Vaibhavi, a Computer Science Engineer based in India, currently working toward full-stack developer 
 roles. 
 
-I enjoy building end-to-end projects with a strong focus on UI, smooth user experience, and practical real-world use cases.
+I enjoy building end-to-end projects with a strong focus on UI, smooth user experience, <br> and practical real-world use cases.
 
-I love turning ideas into functional, deployed applications. 
+I love turning ideas into functional, deployed applications. <br>
 If an idea seems worth creating, I usually build it and ship it. 
 
 My main tech stack revolves around React, Node.js, Express.js, MongoDB, Tailwind CSS and GSAP, with tools like 
