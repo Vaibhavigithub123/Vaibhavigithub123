@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-<!--
-**Vaibhavigithub123/Vaibhavigithub123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Vaibhavi, a Computer Science Engineer based in India, currently working toward full-stack developer roles. I enjoy building end-to-end projects with a strong focus on UI, smooth user experience, and practical real-world use cases.
 
-Here are some ideas to get you started:
+I love turning ideas into functional, deployed applications. If an idea seems worth creating, I usually build it and ship it. My main tech stack revolves around:
+React, Node.js, Express.js, MongoDB, Tailwind CSS, GSAP
+with tools like Vite, Postman, in my workflow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m exploring AI integrations in production-ready apps and continuously improving my full-stack skills, one project at a time.
+
+
+#### Fun Facts:
+
+* I have two cats
+* I love coffee
+* I believe in quality over quantity,in work and in life.
+
